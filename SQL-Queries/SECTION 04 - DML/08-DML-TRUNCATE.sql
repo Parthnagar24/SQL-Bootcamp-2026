@@ -1,0 +1,6 @@
+--USE OF TRUNCATE
+
+TRUNCATE TABLE person
+
+SELECT * 
+FROM person
