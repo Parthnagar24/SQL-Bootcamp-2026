@@ -1,2 +1,0 @@
-# Force GitHub Linguist to treat .sql files as SQL
-*.sql linguist-language=SQL
