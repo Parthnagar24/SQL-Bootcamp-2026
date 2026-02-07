@@ -1,0 +1,7 @@
+SELECT
+'2025-08-20' AS date_value1,
+'2025-02-20' AS date_value1,
+'2025-11-20' AS date_value1,
+EOMONTH('2025-08-20'),
+EOMONTH('2025-02-20'),
+EOMONTH('2025-11-20')
