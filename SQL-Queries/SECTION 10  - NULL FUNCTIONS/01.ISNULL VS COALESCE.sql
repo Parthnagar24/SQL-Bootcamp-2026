@@ -1,0 +1,15 @@
+/*
+replace values 
+
+value to NULL  : NULLIF
+NULL to value  : ISNULL , COALESCE
+
+*/
+
+--ISNULL(VALUE,REPLACEMENT_VALUE)
+
+-- 1.LIMITED TO TWO VALUES 2.FAST 
+
+--COALESCE(VALUE1,VALUE2,....)
+
+--1.UNLIMITED 2.FAST
