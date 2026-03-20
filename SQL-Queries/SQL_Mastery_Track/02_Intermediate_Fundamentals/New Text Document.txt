@@ -1,0 +1,6 @@
+Topics Covered are as Following:
+
+1.Filtering data
+2.Combining data
+3.Row Level Calculations
+4.window Functions
