@@ -1,0 +1,6 @@
+INSERT INTO Sales.Users VALUES
+(1,'Alice','USA','2024-01-10',25),
+(2,'Bob','India','2024-02-15',30),
+(3,'Charlie','USA','2024-03-01',28),
+(4,'David','UK','2024-01-20',NULL),
+(5,'Eva','Germany','2024-04-05',35);

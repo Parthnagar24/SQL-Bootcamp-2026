@@ -1,0 +1,9 @@
+CREATE TABLE Sales.Subscriptions (
+    sub_id INT PRIMARY KEY,
+    user_id INT,
+    plan VARCHAR(20),
+    price INT,
+    start_date DATE,
+    end_date DATE,
+    status VARCHAR(20)
+);

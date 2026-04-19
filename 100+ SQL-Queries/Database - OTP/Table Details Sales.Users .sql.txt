@@ -1,0 +1,7 @@
+CREATE TABLE Sales.Users (
+    user_id INT PRIMARY KEY,
+    name VARCHAR(50),
+    country VARCHAR(50),
+    signup_date DATE,
+    age INT
+);
